@@ -6,5 +6,5 @@ Android Studio kullanılarak Flutter cercevesinde; <br>
     - Dini gun ve gecelerin bulundugu tablo,
     - Kirk hadis,
     - Diyanet'in fetva sitesine yonlendiren "BizeSoruSor" linki,
-    - Yakin camilerin konumlarinin goruntulenebildiği konum ozelligi, 
+    - Yakin camilerin konumlarinin goruntulenebildiği konum ozelligi 
 iceren "IPray" adinda mobil uygulama projesi gerceklestirildi.
